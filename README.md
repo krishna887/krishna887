@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishna887
-- 👀 I’m interested in web designing,  mern stack, mobile app development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on  AI
+- 👀 I’m interested in web development(mern stack), mobile app development  
+- 🌱 I’m currently learning MERN Stack to develop awesome wave
+- 💞️ I’m looking to collaborate on  open source
 - 📫  you can reach me through github
 
 <!---
