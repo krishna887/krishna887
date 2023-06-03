@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishna887
-- 👀 I’m interested in web development(mern stack), mobile app development  
+- 👀 I’m interested in web development React as frontend and Django as backend, mobile app development  with Flutter 
 - 🌱 I’m currently learning MERN Stack to develop awesome websites
 - 💞️ I’m looking to collaborate on  open source
 - 📫  you can reach me through github
