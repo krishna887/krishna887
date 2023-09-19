@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna887
-- 👀 I’m interested in web development React as frontend and Django as backend, mobile app development  with Flutter 
-- 🌱 I’m currently learning MERN Stack to develop awesome websites
+- 👀 I’m interested in web development React as frontend and Java as backend
+- 🌱 I’m currently learning Java and its framework from hamro patro pvt ltd
 - 💞️ I’m looking to collaborate on  open source
 - Also interest in machine learning and data science and doing project about machine learning and data science
 - 📫  you can reach me through github
